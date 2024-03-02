@@ -2,7 +2,7 @@
 GitHub TrendScraper" is a project designed to extract data on top repositories for various topics on GitHub. It utilizes web scraping techniques to gather repository information and compiles it into a CSV (Comma-Separated Values) file. 
 
 
-# GitHub TrendScraper: Extracting Top Repositories
+## GitHub TrendScraper: Extracting Top Repositories
 
 GitHub TrendScraper is a Python-based project that extracts information about the top repositories for various topics on GitHub. Leveraging web scraping techniques with Python, requests, BeautifulSoup, and pandas libraries, this project offers a convenient way to gather valuable insights into trending repositories across different domains.
 
