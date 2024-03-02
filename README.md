@@ -27,7 +27,7 @@ pip install requests beautifulsoup4 pandas
 
 ## Usage
 1. Clone the repository :
-git clone https://github.com/your_username/github-trendscraper.git
+git clone https://github.com/shivamj2001/github-trendscraper.git
 cd github-trendscraper
 
 - Run the github_trendscraper.py script:
